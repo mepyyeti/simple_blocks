@@ -1,1 +1,1 @@
-a simple, basic block in rb
+#blocks_galore.rb --> a simple, elementary illustration of block flexibility in rb
